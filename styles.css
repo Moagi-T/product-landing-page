@@ -452,3 +452,31 @@ footer h1 {
     overflow: hidden;
   }
 }
+@media (max-width: 800px) {
+  #header {
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    transition: all 0.5s ease;
+  }
+  #header-img {
+    display: none;
+  }
+  .header-name {
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: all 0.3s ease-out;
+    white-space: nowrap;
+  }
+  #nav-bar {
+    position: relative;
+    width: 60%;
+    min-width: 400px;
+    top: 20px;
+    transition: all 0.5s ease;
+  }
+  .product-container div:last-of-type {
+    height: auto;
+  }
+}
