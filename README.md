@@ -30,9 +30,11 @@ A clean, modern, and responsive **Product Landing Page** built using HTML and CS
 
 ## 🚀 Live Demo
 
-[Click here to view the live project]() 
+[Click here to view the live project](https://moagi-t.github.io/product-landing-page/) 
 
 ## 📸 Screenshot
 
-![LandingPage-1]()
-![LandingPage-2]()
+![LandingPage-1](Screenshots/planding-1.png)
+![LandingPage-2](Screenshots/planding-2.png)
+![LandingPage-3](Screenshots/planding-3.png)
+![LandingPage-4](Screenshots/planding-4.png)
